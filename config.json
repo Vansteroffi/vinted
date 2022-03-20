@@ -1,0 +1,19 @@
+{
+    "token": "OTU1MDc1NDUyNDc1NjgyODQ3.YjcZVA.AY4VtELXLmGCzpKPbIRIZFYa28I",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://discord.com/api/webhooks/955104717942452254/9zPOrWSCytcC2LA7xAj4drAfWbOiQF9uN62swXDRdngqitQX0qOXcqsnaEmOj-9DxnHr": {
+            "url": "https://www.vinted.fr/vetements?search_text=sac&brand_id[]=872289&brand_id[]=362&currency=EUR&search_id=4680561151&order=newest_first&price_to=50",
+            "salon": "sac-a-dos"
+        },
+        "https://discord.com/api/webhooks/955104877544091700/FskTmqnUOfo2aMRRG93UZwjd4aqdlyj0TUH2S7fucwlFLzPFuoYcBE0tQX2uaAxTOJQm": {
+            "url": "https://www.vinted.fr/vetements?search_text=doudoune&brand_id[]=88&brand_id[]=4273&brand_id[]=430791&size_id[]=210&size_id[]=211&status[]=6&status[]=1&status[]=2&status[]=3&catalog[]=1206&currency=EUR&search_id=4716197711&order=newest_first&price_to=120",
+            "salon": "doudounne-ralph"
+        },
+        "https://discord.com/api/webhooks/955105590064087070/jos_QOCLVaQe997qGyWTAAjqlyAbKdBXNctSoWVyxym7Uo5kzeRkBsYE4uIiUYTQDbSP": {
+            "url": "https://www.vinted.fr/vetements?search_text=pantalons&brand_id[]=362&brand_id[]=872289&size_id[]=209&size_id[]=210&size_id[]=211&currency=EUR&search_id=4730667347&order=newest_first&price_to=20",
+            "salon": "pantalon"
+        }
+    }
+}
